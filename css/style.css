@@ -917,7 +917,7 @@ body{
 
 .shop{
   position: relative;
-  padding-bottom: 275px;
+  padding-bottom: 225px;
 }
 
 .shop::before{
@@ -1136,7 +1136,7 @@ body{
   padding-bottom: 35px;
 }
 
-.footer::before{
+/* .footer::before{
   width: 100%;
   content: '';
   position: absolute;
@@ -1145,7 +1145,7 @@ body{
   background-image: url(../img/Surf/Divide.png);
   width: 851px;
   height: 1200px;
-}
+} */
 
 .footer-button{
   display: block;
