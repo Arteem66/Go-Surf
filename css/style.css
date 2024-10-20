@@ -15,6 +15,12 @@ body{
   right: 0;
 }
 
+.big-container{
+  position: relative;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
 .container{
   width: min(95%,1275px);
   height: 100%;
@@ -357,20 +363,10 @@ body{
   height: 635px;
 }
 
-.surf-map-title::after{
-  content: '';
-  position: absolute;
-  top: 75px;
-  right: 20px;
-  background-image: url(../img/Surf/Map.png);
-  width: 1295px;
-  height: 635px;
-}
-
 .coordinates{
   position: absolute;
-  top: 550px;
-  right: -90px;
+  top: 425px;
+  right: -170px;
   transform: rotate(-90deg);
   font-size: 18px;
   letter-spacing: 8px;
