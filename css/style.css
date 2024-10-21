@@ -17,7 +17,7 @@ body{
 
 .big-container{
   position: relative;
-  max-width: 1440px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 
@@ -626,7 +626,7 @@ body{
   content: '';
   position: absolute;
   top: -180px;
-  right: -78px;
+  right: -77px;
   background-image: url(../img/Travel/Bitmap.png);
   width: 720px;
   height: 300px;
@@ -776,7 +776,7 @@ body{
   gap: 100px;
 }
 
-.rating-box::after{
+/* .rating-box::after{
   content: '';
   position: absolute;
   top: 275px;
@@ -784,7 +784,7 @@ body{
   background-image: url(../img/Travel/cocktail_PNG33.png);
   width: 282px;
   height: 564px;
-}
+} */
 
 .rating-head{
   position: relative;
@@ -800,7 +800,7 @@ body{
   content: '';
   position: absolute;
   top: -180px;
-  right: -78px;
+  right: -77px;
   background-image: url(../img/Sleep/Hammock.png);
   width: 490px;
   height: 285px;
@@ -810,7 +810,7 @@ body{
   content: '';
   position: absolute;
   top: -25px;
-  right: -78px;
+  right: -77px;
   background-image: url(../img/Sleep/Frangipani\ Copy.png);
   width: 146px;
   height: 215px;
@@ -843,7 +843,7 @@ body{
   content: '';
   position: absolute;
   top: 150px;
-  right: -78px;
+  right: -77px;
   background-image: url(../img/Sleep/Frangipani.png);
   width: 187px;
   height: 264px;
@@ -959,7 +959,7 @@ body{
   content: '';
   position: absolute;
   top: 75px;
-  right: -78px;
+  right: -77px;
   background-image: url(../img/Shop/Shop\ Image.png);
   width: 1050px;
   height: 590px;
